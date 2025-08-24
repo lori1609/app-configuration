@@ -1,5 +1,5 @@
 build:
-  id: 20202
-  version: 9.9.9
+  id: 2020203
+  version: 9.9.9.99
   name: "GIT de Development-Build"
   type: "Development dev GIT Build"
